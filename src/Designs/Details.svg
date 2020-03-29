@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <clipPath id="clip-Web_1920_4">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1920_4" data-name="Web 1920 – 4" clip-path="url(#clip-Web_1920_4)">
+    <rect width="1920" height="1080"/>
+    <g id="Group_2" data-name="Group 2">
+      <g id="Rectangle_22" data-name="Rectangle 22" transform="translate(1366 346)" fill="#292929" stroke="#707070" stroke-width="1">
+        <rect width="512" height="677" rx="13" stroke="none"/>
+        <rect x="0.5" y="0.5" width="511" height="676" rx="12.5" fill="none"/>
+      </g>
+      <text id="April" transform="translate(716 212)" fill="#00e697" font-size="202" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">April</tspan></text>
+      <line id="Line_1" data-name="Line 1" x2="2089" transform="translate(0.5 283.5)" fill="none" stroke="#fff" stroke-width="1"/>
+      <path id="Polygon_1" data-name="Polygon 1" d="M44.5,0,89,77H0Z" transform="translate(1385 196) rotate(180)" fill="#00e697"/>
+      <rect id="Rectangle_1" data-name="Rectangle 1" width="673" height="677" rx="13" transform="translate(68 346)" fill="#292929"/>
+      <text id="BOOK" transform="translate(288 634)" fill="#707070" font-size="57" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">BOOK</tspan></text>
+      <g id="Rectangle_2" data-name="Rectangle 2" transform="translate(802 346)" fill="#292929" stroke="#707070" stroke-width="1">
+        <rect width="512" height="677" rx="13" stroke="none"/>
+        <rect x="0.5" y="0.5" width="511" height="676" rx="12.5" fill="none"/>
+      </g>
+      <text id="DATA_ABOUT_THE_BOOK_VIA_GRAPHS" data-name="DATA ABOUT 
+THE BOOK 
+VIA GRAPHS" transform="translate(1434 508)" fill="#707070" font-size="57" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">DATA ABOUT </tspan><tspan x="0" y="86">THE BOOK </tspan><tspan x="0" y="172">VIA GRAPHS</tspan></text>
+      <text id="FACTS_ABOUT_THE_BOOK_" data-name="FACTS ABOUT 
+THE BOOK 
+" transform="translate(870 508)" fill="#707070" font-size="57" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">FACTS ABOUT </tspan><tspan x="0" y="86">THE BOOK </tspan><tspan x="0" y="172"></tspan></text>
+    </g>
+  </g>
+</svg>
