@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <clipPath id="clip-Web_1920_7">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1920_7" data-name="Web 1920 – 7" clip-path="url(#clip-Web_1920_7)">
+    <rect width="1920" height="1080" fill="#fff"/>
+    <g id="Group_2" data-name="Group 2">
+      <rect id="Rectangle_25" data-name="Rectangle 25" width="1965" height="1118" transform="translate(0 -19)" fill="#feffed"/>
+      <text id="ADD_BOOKS" data-name="ADD BOOKS" transform="translate(938 201)" fill="#65ffca" font-size="132" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="-390.72" y="0">A</tspan><tspan y="0" fill="#ffb1d8">D</tspan><tspan y="0" fill="#ffeead">D </tspan><tspan y="0" fill="#93ffe6">B</tspan><tspan y="0" fill="#a3a8ff">O</tspan><tspan y="0" fill="#ff9bdc">O</tspan><tspan y="0" fill="#ffa780">K</tspan><tspan y="0" fill="#f28282">S</tspan></text>
+      <g id="Rectangle_26" data-name="Rectangle 26" transform="translate(76 37)" fill="none" stroke="#93ffe6" stroke-width="2">
+        <rect width="1814" height="974" rx="41" stroke="none"/>
+        <rect x="1" y="1" width="1812" height="972" rx="40" fill="none"/>
+      </g>
+      <line id="Line_5" data-name="Line 5" y2="973.818" transform="translate(527.5 37.682)" fill="none" stroke="#ff9bdc" stroke-width="1"/>
+      <line id="Line_6" data-name="Line 6" x2="1814" transform="translate(76.5 222.17)" fill="none" stroke="#93ffe6" stroke-width="1"/>
+      <line id="Line_7" data-name="Line 7" x2="1814" transform="translate(76.5 379.803)" fill="none" stroke="#93ffe6" stroke-width="1"/>
+      <line id="Line_8" data-name="Line 8" x2="1814" transform="translate(76.5 537.435)" fill="none" stroke="#93ffe6" stroke-width="1"/>
+      <line id="Line_9" data-name="Line 9" x2="1814" transform="translate(76.5 695.068)" fill="none" stroke="#93ffe6" stroke-width="1"/>
+      <line id="Line_10" data-name="Line 10" x2="1814" transform="translate(76.5 852.7)" fill="none" stroke="#93ffe6" stroke-width="1"/>
+      <text id="Month" transform="translate(92 371)" fill="#0062ff" font-size="80" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">Month</tspan></text>
+      <text id="Book" transform="translate(193 529)" fill="#0062ff" font-size="80" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="-101.48" y="0">Book</tspan></text>
+      <text id="Time" transform="translate(194 686)" fill="#0062ff" font-size="80" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="-101.84" y="0">Time</tspan></text>
+      <text id="ADD" transform="translate(1062 993)" fill="#0363ff" font-size="110" font-family="Poppins-Black, Poppins" font-weight="800"><tspan x="-124.245" y="0">ADD</tspan></text>
+    </g>
+  </g>
+</svg>

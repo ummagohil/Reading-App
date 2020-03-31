@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <clipPath id="clip-Web_1920_6">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1920_6" data-name="Web 1920 – 6" clip-path="url(#clip-Web_1920_6)">
+    <rect width="1920" height="1080" fill="#fff"/>
+    <g id="Group_1" data-name="Group 1">
+      <rect id="Rectangle_24" data-name="Rectangle 24" width="984" height="1118" transform="translate(936 -19)" fill="#d9ecff"/>
+      <rect id="Rectangle_25" data-name="Rectangle 25" width="960" height="1118" transform="translate(0 -19)" fill="#feffed"/>
+      <text id="ADD_BOOKS" data-name="ADD
+BOOKS" transform="translate(468 442)" fill="#65ffca" font-size="245" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="-269.01" y="0">A</tspan><tspan y="0" fill="#ffb1d8">D</tspan><tspan y="0" fill="#ffeead">D</tspan><tspan fill="#93ffe6"><tspan x="-431.69" y="368">B</tspan><tspan y="368" fill="#a3a8ff">O</tspan><tspan y="368" fill="#ff9bdc">O</tspan><tspan y="368" fill="#ffa780">K</tspan><tspan y="368" fill="#f28282">S</tspan></tspan></text>
+      <text id="VIEW_BOOKS" data-name="VIEW
+BOOKS" transform="translate(1463 442)" fill="#00e697" font-size="245" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="-318.99" y="0">V</tspan><tspan y="0" fill="#ff2b95">I</tspan><tspan y="0" fill="#ecc946">E</tspan><tspan y="0" fill="#354cfc">W</tspan><tspan fill="#bc35f8"><tspan x="-431.69" y="368">B</tspan><tspan y="368" fill="#00d8ff">O</tspan><tspan y="368" fill="#0ad649">O</tspan><tspan y="368" fill="#354cfc">K</tspan><tspan y="368" fill="#ff2b95">S</tspan></tspan></text>
+    </g>
+  </g>
+</svg>
