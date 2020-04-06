@@ -8,16 +8,9 @@ import routes from './config/routes'
 import { renderRoutes } from 'react-router-config'
 import { BrowserRouter } from 'react-router-dom'
 
-/*
-<BrowserRouter>{renderRoutes(routes)}</BrowserRouter>
- */
-
 ReactDOM.render(
   <React.StrictMode>
-    <BrowserRouter>
-      <App />
-      {renderRoutes(routes)}
-    </BrowserRouter>
+    <BrowserRouter>{renderRoutes(routes)}</BrowserRouter>
   </React.StrictMode>,
   document.getElementById('root')
 )
