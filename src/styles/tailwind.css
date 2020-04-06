@@ -687,10 +687,6 @@ video {
   background-color: transparent;
 }
 
-.bg-current {
-  background-color: currentColor;
-}
-
 .bg-black {
   background-color: #000;
 }
@@ -1063,10 +1059,6 @@ video {
   background-color: transparent;
 }
 
-.hover\:bg-current:hover {
-  background-color: currentColor;
-}
-
 .hover\:bg-black:hover {
   background-color: #000;
 }
@@ -1437,10 +1429,6 @@ video {
 
 .focus\:bg-transparent:focus {
   background-color: transparent;
-}
-
-.focus\:bg-current:focus {
-  background-color: currentColor;
 }
 
 .focus\:bg-black:focus {
@@ -1895,10 +1883,6 @@ video {
   border-color: transparent;
 }
 
-.border-current {
-  border-color: currentColor;
-}
-
 .border-black {
   border-color: #000;
 }
@@ -2271,10 +2255,6 @@ video {
   border-color: transparent;
 }
 
-.hover\:border-current:hover {
-  border-color: currentColor;
-}
-
 .hover\:border-black:hover {
   border-color: #000;
 }
@@ -2645,10 +2625,6 @@ video {
 
 .focus\:border-transparent:focus {
   border-color: transparent;
-}
-
-.focus\:border-current:focus {
-  border-color: currentColor;
 }
 
 .focus\:border-black:focus {
@@ -5995,22 +5971,6 @@ video {
   color: transparent;
 }
 
-.placeholder-current::-webkit-input-placeholder {
-  color: currentColor;
-}
-
-.placeholder-current:-ms-input-placeholder {
-  color: currentColor;
-}
-
-.placeholder-current::-ms-input-placeholder {
-  color: currentColor;
-}
-
-.placeholder-current::placeholder {
-  color: currentColor;
-}
-
 .placeholder-black::-webkit-input-placeholder {
   color: #000;
 }
@@ -7497,22 +7457,6 @@ video {
 
 .focus\:placeholder-transparent:focus::placeholder {
   color: transparent;
-}
-
-.focus\:placeholder-current:focus::-webkit-input-placeholder {
-  color: currentColor;
-}
-
-.focus\:placeholder-current:focus:-ms-input-placeholder {
-  color: currentColor;
-}
-
-.focus\:placeholder-current:focus::-ms-input-placeholder {
-  color: currentColor;
-}
-
-.focus\:placeholder-current:focus::placeholder {
-  color: currentColor;
 }
 
 .focus\:placeholder-black:focus::-webkit-input-placeholder {
@@ -9266,10 +9210,6 @@ video {
   color: transparent;
 }
 
-.text-current {
-  color: currentColor;
-}
-
 .text-black {
   color: #000;
 }
@@ -9642,10 +9582,6 @@ video {
   color: transparent;
 }
 
-.hover\:text-current:hover {
-  color: currentColor;
-}
-
 .hover\:text-black:hover {
   color: #000;
 }
@@ -10016,10 +9952,6 @@ video {
 
 .focus\:text-transparent:focus {
   color: transparent;
-}
-
-.focus\:text-current:focus {
-  color: currentColor;
 }
 
 .focus\:text-black:focus {
@@ -13321,10 +13253,6 @@ video {
     background-color: transparent;
   }
 
-  .sm\:bg-current {
-    background-color: currentColor;
-  }
-
   .sm\:bg-black {
     background-color: #000;
   }
@@ -13697,10 +13625,6 @@ video {
     background-color: transparent;
   }
 
-  .sm\:hover\:bg-current:hover {
-    background-color: currentColor;
-  }
-
   .sm\:hover\:bg-black:hover {
     background-color: #000;
   }
@@ -14071,10 +13995,6 @@ video {
 
   .sm\:focus\:bg-transparent:focus {
     background-color: transparent;
-  }
-
-  .sm\:focus\:bg-current:focus {
-    background-color: currentColor;
   }
 
   .sm\:focus\:bg-black:focus {
@@ -14529,10 +14449,6 @@ video {
     border-color: transparent;
   }
 
-  .sm\:border-current {
-    border-color: currentColor;
-  }
-
   .sm\:border-black {
     border-color: #000;
   }
@@ -14905,10 +14821,6 @@ video {
     border-color: transparent;
   }
 
-  .sm\:hover\:border-current:hover {
-    border-color: currentColor;
-  }
-
   .sm\:hover\:border-black:hover {
     border-color: #000;
   }
@@ -15279,10 +15191,6 @@ video {
 
   .sm\:focus\:border-transparent:focus {
     border-color: transparent;
-  }
-
-  .sm\:focus\:border-current:focus {
-    border-color: currentColor;
   }
 
   .sm\:focus\:border-black:focus {
@@ -18629,22 +18537,6 @@ video {
     color: transparent;
   }
 
-  .sm\:placeholder-current::-webkit-input-placeholder {
-    color: currentColor;
-  }
-
-  .sm\:placeholder-current:-ms-input-placeholder {
-    color: currentColor;
-  }
-
-  .sm\:placeholder-current::-ms-input-placeholder {
-    color: currentColor;
-  }
-
-  .sm\:placeholder-current::placeholder {
-    color: currentColor;
-  }
-
   .sm\:placeholder-black::-webkit-input-placeholder {
     color: #000;
   }
@@ -20131,22 +20023,6 @@ video {
 
   .sm\:focus\:placeholder-transparent:focus::placeholder {
     color: transparent;
-  }
-
-  .sm\:focus\:placeholder-current:focus::-webkit-input-placeholder {
-    color: currentColor;
-  }
-
-  .sm\:focus\:placeholder-current:focus:-ms-input-placeholder {
-    color: currentColor;
-  }
-
-  .sm\:focus\:placeholder-current:focus::-ms-input-placeholder {
-    color: currentColor;
-  }
-
-  .sm\:focus\:placeholder-current:focus::placeholder {
-    color: currentColor;
   }
 
   .sm\:focus\:placeholder-black:focus::-webkit-input-placeholder {
@@ -21900,10 +21776,6 @@ video {
     color: transparent;
   }
 
-  .sm\:text-current {
-    color: currentColor;
-  }
-
   .sm\:text-black {
     color: #000;
   }
@@ -22276,10 +22148,6 @@ video {
     color: transparent;
   }
 
-  .sm\:hover\:text-current:hover {
-    color: currentColor;
-  }
-
   .sm\:hover\:text-black:hover {
     color: #000;
   }
@@ -22650,10 +22518,6 @@ video {
 
   .sm\:focus\:text-transparent:focus {
     color: transparent;
-  }
-
-  .sm\:focus\:text-current:focus {
-    color: currentColor;
   }
 
   .sm\:focus\:text-black:focus {
@@ -25956,10 +25820,6 @@ video {
     background-color: transparent;
   }
 
-  .md\:bg-current {
-    background-color: currentColor;
-  }
-
   .md\:bg-black {
     background-color: #000;
   }
@@ -26332,10 +26192,6 @@ video {
     background-color: transparent;
   }
 
-  .md\:hover\:bg-current:hover {
-    background-color: currentColor;
-  }
-
   .md\:hover\:bg-black:hover {
     background-color: #000;
   }
@@ -26706,10 +26562,6 @@ video {
 
   .md\:focus\:bg-transparent:focus {
     background-color: transparent;
-  }
-
-  .md\:focus\:bg-current:focus {
-    background-color: currentColor;
   }
 
   .md\:focus\:bg-black:focus {
@@ -27164,10 +27016,6 @@ video {
     border-color: transparent;
   }
 
-  .md\:border-current {
-    border-color: currentColor;
-  }
-
   .md\:border-black {
     border-color: #000;
   }
@@ -27540,10 +27388,6 @@ video {
     border-color: transparent;
   }
 
-  .md\:hover\:border-current:hover {
-    border-color: currentColor;
-  }
-
   .md\:hover\:border-black:hover {
     border-color: #000;
   }
@@ -27914,10 +27758,6 @@ video {
 
   .md\:focus\:border-transparent:focus {
     border-color: transparent;
-  }
-
-  .md\:focus\:border-current:focus {
-    border-color: currentColor;
   }
 
   .md\:focus\:border-black:focus {
@@ -31264,22 +31104,6 @@ video {
     color: transparent;
   }
 
-  .md\:placeholder-current::-webkit-input-placeholder {
-    color: currentColor;
-  }
-
-  .md\:placeholder-current:-ms-input-placeholder {
-    color: currentColor;
-  }
-
-  .md\:placeholder-current::-ms-input-placeholder {
-    color: currentColor;
-  }
-
-  .md\:placeholder-current::placeholder {
-    color: currentColor;
-  }
-
   .md\:placeholder-black::-webkit-input-placeholder {
     color: #000;
   }
@@ -32766,22 +32590,6 @@ video {
 
   .md\:focus\:placeholder-transparent:focus::placeholder {
     color: transparent;
-  }
-
-  .md\:focus\:placeholder-current:focus::-webkit-input-placeholder {
-    color: currentColor;
-  }
-
-  .md\:focus\:placeholder-current:focus:-ms-input-placeholder {
-    color: currentColor;
-  }
-
-  .md\:focus\:placeholder-current:focus::-ms-input-placeholder {
-    color: currentColor;
-  }
-
-  .md\:focus\:placeholder-current:focus::placeholder {
-    color: currentColor;
   }
 
   .md\:focus\:placeholder-black:focus::-webkit-input-placeholder {
@@ -34535,10 +34343,6 @@ video {
     color: transparent;
   }
 
-  .md\:text-current {
-    color: currentColor;
-  }
-
   .md\:text-black {
     color: #000;
   }
@@ -34911,10 +34715,6 @@ video {
     color: transparent;
   }
 
-  .md\:hover\:text-current:hover {
-    color: currentColor;
-  }
-
   .md\:hover\:text-black:hover {
     color: #000;
   }
@@ -35285,10 +35085,6 @@ video {
 
   .md\:focus\:text-transparent:focus {
     color: transparent;
-  }
-
-  .md\:focus\:text-current:focus {
-    color: currentColor;
   }
 
   .md\:focus\:text-black:focus {
@@ -38591,10 +38387,6 @@ video {
     background-color: transparent;
   }
 
-  .lg\:bg-current {
-    background-color: currentColor;
-  }
-
   .lg\:bg-black {
     background-color: #000;
   }
@@ -38967,10 +38759,6 @@ video {
     background-color: transparent;
   }
 
-  .lg\:hover\:bg-current:hover {
-    background-color: currentColor;
-  }
-
   .lg\:hover\:bg-black:hover {
     background-color: #000;
   }
@@ -39341,10 +39129,6 @@ video {
 
   .lg\:focus\:bg-transparent:focus {
     background-color: transparent;
-  }
-
-  .lg\:focus\:bg-current:focus {
-    background-color: currentColor;
   }
 
   .lg\:focus\:bg-black:focus {
@@ -39799,10 +39583,6 @@ video {
     border-color: transparent;
   }
 
-  .lg\:border-current {
-    border-color: currentColor;
-  }
-
   .lg\:border-black {
     border-color: #000;
   }
@@ -40175,10 +39955,6 @@ video {
     border-color: transparent;
   }
 
-  .lg\:hover\:border-current:hover {
-    border-color: currentColor;
-  }
-
   .lg\:hover\:border-black:hover {
     border-color: #000;
   }
@@ -40549,10 +40325,6 @@ video {
 
   .lg\:focus\:border-transparent:focus {
     border-color: transparent;
-  }
-
-  .lg\:focus\:border-current:focus {
-    border-color: currentColor;
   }
 
   .lg\:focus\:border-black:focus {
@@ -43899,22 +43671,6 @@ video {
     color: transparent;
   }
 
-  .lg\:placeholder-current::-webkit-input-placeholder {
-    color: currentColor;
-  }
-
-  .lg\:placeholder-current:-ms-input-placeholder {
-    color: currentColor;
-  }
-
-  .lg\:placeholder-current::-ms-input-placeholder {
-    color: currentColor;
-  }
-
-  .lg\:placeholder-current::placeholder {
-    color: currentColor;
-  }
-
   .lg\:placeholder-black::-webkit-input-placeholder {
     color: #000;
   }
@@ -45401,22 +45157,6 @@ video {
 
   .lg\:focus\:placeholder-transparent:focus::placeholder {
     color: transparent;
-  }
-
-  .lg\:focus\:placeholder-current:focus::-webkit-input-placeholder {
-    color: currentColor;
-  }
-
-  .lg\:focus\:placeholder-current:focus:-ms-input-placeholder {
-    color: currentColor;
-  }
-
-  .lg\:focus\:placeholder-current:focus::-ms-input-placeholder {
-    color: currentColor;
-  }
-
-  .lg\:focus\:placeholder-current:focus::placeholder {
-    color: currentColor;
   }
 
   .lg\:focus\:placeholder-black:focus::-webkit-input-placeholder {
@@ -47170,10 +46910,6 @@ video {
     color: transparent;
   }
 
-  .lg\:text-current {
-    color: currentColor;
-  }
-
   .lg\:text-black {
     color: #000;
   }
@@ -47546,10 +47282,6 @@ video {
     color: transparent;
   }
 
-  .lg\:hover\:text-current:hover {
-    color: currentColor;
-  }
-
   .lg\:hover\:text-black:hover {
     color: #000;
   }
@@ -47920,10 +47652,6 @@ video {
 
   .lg\:focus\:text-transparent:focus {
     color: transparent;
-  }
-
-  .lg\:focus\:text-current:focus {
-    color: currentColor;
   }
 
   .lg\:focus\:text-black:focus {
@@ -51226,10 +50954,6 @@ video {
     background-color: transparent;
   }
 
-  .xl\:bg-current {
-    background-color: currentColor;
-  }
-
   .xl\:bg-black {
     background-color: #000;
   }
@@ -51602,10 +51326,6 @@ video {
     background-color: transparent;
   }
 
-  .xl\:hover\:bg-current:hover {
-    background-color: currentColor;
-  }
-
   .xl\:hover\:bg-black:hover {
     background-color: #000;
   }
@@ -51976,10 +51696,6 @@ video {
 
   .xl\:focus\:bg-transparent:focus {
     background-color: transparent;
-  }
-
-  .xl\:focus\:bg-current:focus {
-    background-color: currentColor;
   }
 
   .xl\:focus\:bg-black:focus {
@@ -52434,10 +52150,6 @@ video {
     border-color: transparent;
   }
 
-  .xl\:border-current {
-    border-color: currentColor;
-  }
-
   .xl\:border-black {
     border-color: #000;
   }
@@ -52810,10 +52522,6 @@ video {
     border-color: transparent;
   }
 
-  .xl\:hover\:border-current:hover {
-    border-color: currentColor;
-  }
-
   .xl\:hover\:border-black:hover {
     border-color: #000;
   }
@@ -53184,10 +52892,6 @@ video {
 
   .xl\:focus\:border-transparent:focus {
     border-color: transparent;
-  }
-
-  .xl\:focus\:border-current:focus {
-    border-color: currentColor;
   }
 
   .xl\:focus\:border-black:focus {
@@ -56534,22 +56238,6 @@ video {
     color: transparent;
   }
 
-  .xl\:placeholder-current::-webkit-input-placeholder {
-    color: currentColor;
-  }
-
-  .xl\:placeholder-current:-ms-input-placeholder {
-    color: currentColor;
-  }
-
-  .xl\:placeholder-current::-ms-input-placeholder {
-    color: currentColor;
-  }
-
-  .xl\:placeholder-current::placeholder {
-    color: currentColor;
-  }
-
   .xl\:placeholder-black::-webkit-input-placeholder {
     color: #000;
   }
@@ -58036,22 +57724,6 @@ video {
 
   .xl\:focus\:placeholder-transparent:focus::placeholder {
     color: transparent;
-  }
-
-  .xl\:focus\:placeholder-current:focus::-webkit-input-placeholder {
-    color: currentColor;
-  }
-
-  .xl\:focus\:placeholder-current:focus:-ms-input-placeholder {
-    color: currentColor;
-  }
-
-  .xl\:focus\:placeholder-current:focus::-ms-input-placeholder {
-    color: currentColor;
-  }
-
-  .xl\:focus\:placeholder-current:focus::placeholder {
-    color: currentColor;
   }
 
   .xl\:focus\:placeholder-black:focus::-webkit-input-placeholder {
@@ -59805,10 +59477,6 @@ video {
     color: transparent;
   }
 
-  .xl\:text-current {
-    color: currentColor;
-  }
-
   .xl\:text-black {
     color: #000;
   }
@@ -60181,10 +59849,6 @@ video {
     color: transparent;
   }
 
-  .xl\:hover\:text-current:hover {
-    color: currentColor;
-  }
-
   .xl\:hover\:text-black:hover {
     color: #000;
   }
@@ -60555,10 +60219,6 @@ video {
 
   .xl\:focus\:text-transparent:focus {
     color: transparent;
-  }
-
-  .xl\:focus\:text-current:focus {
-    color: currentColor;
   }
 
   .xl\:focus\:text-black:focus {
