@@ -7,7 +7,7 @@ const toggle = (): any => {
         return { type: commonConstants.HELLO_TOGGLE }
     }
 
-    return async (dispatch) => {
+    return async (dispatch: Dispatch) => {
         dispatch(success())
     }
 }
