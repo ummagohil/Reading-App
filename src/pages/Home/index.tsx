@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { Component } from 'react'
 import { Link } from 'react-router-dom'
 
 import { Dispatch, AnyAction, bindActionCreators } from 'redux'
@@ -20,7 +20,7 @@ const mapStateToProps = (state: IAppState): IAppState => {
   }
 }
 
-class App extends React.Component<
+class App extends Component<
   ReturnType<typeof mapStateToProps> & ReturnType<typeof mapDispatchToProps>
 > {
   render() {
