@@ -1,13 +1,6 @@
-import React, { Component } from 'react'
+import React, { FC } from 'react'
 
-class Add extends Component {
-  render() {
-    return (
-      <div>
-        <h2>Add</h2>
-      </div>
-    )
-  }
+const Add: FC = () => {
+  return <div>Add</div>
 }
-
 export default Add

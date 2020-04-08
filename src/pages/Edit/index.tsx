@@ -1,13 +1,6 @@
-import React, { Component } from 'react'
+import React, { FC } from 'react'
 
-class Edit extends Component {
-  render() {
-    return (
-      <div>
-        <h2>Edit</h2>
-      </div>
-    )
-  }
+const Edit: FC = () => {
+  return <div>Edit</div>
 }
-
 export default Edit
