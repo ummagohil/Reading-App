@@ -1,13 +1,6 @@
-import React, { Component } from 'react'
+import React, { FC } from 'react'
 
-class page extends Component {
-    render() {
-        return (
-            <div>
-                <h2>Add</h2>
-            </div>
-        )
-    }
+const Page: FC = () => {
+    return <div>Page</div>
 }
-
-export default page
+export default Page
