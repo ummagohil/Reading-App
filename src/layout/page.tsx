@@ -1,6 +1,9 @@
 import React, { FC } from 'react'
 
-const Page: FC = () => {
-    return <div>Page</div>
+type Props = {
+    children?: React.ReactNode
+}
+const Page: FC = ({ children }) => {
+    return <>Page {children}</>
 }
 export default Page

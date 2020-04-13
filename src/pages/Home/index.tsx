@@ -6,40 +6,46 @@ import { connect } from 'react-redux'
 import { commonActions } from '../../store/actions/common.actions'
 import { IAppState } from '../../store/reducers'
 
+import Page from '../../layout/page'
 const mapDispatchToProps = (dispatch: Dispatch<AnyAction>) =>
-  bindActionCreators(
-    {
-      toggle: () => commonActions.toggle(),
-    },
-    dispatch
-  )
+    bindActionCreators(
+        {
+            toggle: () => commonActions.toggle(),
+        },
+        dispatch
+    )
 
 const mapStateToProps = (state: IAppState): IAppState => {
-  return {
-    commonState: state.commonState,
-  }
+    return {
+        commonState: state.commonState,
+    }
 }
 
 class App extends Component<
-  ReturnType<typeof mapStateToProps> & ReturnType<typeof mapDispatchToProps>
+    ReturnType<typeof mapStateToProps> & ReturnType<typeof mapDispatchToProps>
 > {
-  render() {
-    return (
-      <div className="App">
-        <button onClick={this.props.toggle}>Toggle Button</button>
-        {this.props.commonState.display ? <div>true</div> : <div>false</div>}
-        <h2>
-          <Link to="/">Home</Link>
-        </h2>
-        <h2>
-          <Link to="/Add">Add</Link>
-        </h2>
-        <h2>
-          <Link to="/Edit">Edit</Link>
-        </h2>
-      </div>
-    )
-  }
+    render() {
+        return (
+            <>
+                <Page></Page>
+                <button onClick={this.props.toggle}>Toggle Button</button>
+                {this.props.commonState.display ? (
+                    <div>true</div>
+                ) : (
+                    <div>false</div>
+                )}
+                <h2>
+                    <Link to="/">Home</Link>
+                </h2>
+                <h2>
+                    <Link to="/Add">Add</Link>
+                </h2>
+                <h2>
+                    <Link to="/Edit">Edit</Link>
+                </h2>
+            </>
+        )
+    }
 }
 
 export default connect(mapStateToProps, mapDispatchToProps)(App)
