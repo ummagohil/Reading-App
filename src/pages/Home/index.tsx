@@ -7,6 +7,7 @@ import { commonActions } from '../../store/actions/common.actions'
 import { IAppState } from '../../store/reducers'
 
 import Page from '../../layout/page'
+
 const mapDispatchToProps = (dispatch: Dispatch<AnyAction>) =>
     bindActionCreators(
         {
@@ -26,8 +27,7 @@ class App extends Component<
 > {
     render() {
         return (
-            <>
-                <Page></Page>
+            <Page>
                 <button onClick={this.props.toggle}>Toggle Button</button>
                 {this.props.commonState.display ? (
                     <div>true</div>
@@ -43,7 +43,7 @@ class App extends Component<
                 <h2>
                     <Link to="/Edit">Edit</Link>
                 </h2>
-            </>
+            </Page>
         )
     }
 }

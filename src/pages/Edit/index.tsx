@@ -1,6 +1,7 @@
 import React, { FC } from 'react'
+import Page from '../../layout/page'
 
 const Edit: FC = () => {
-  return <div>Edit</div>
+    return <Page>Edit</Page>
 }
 export default Edit
