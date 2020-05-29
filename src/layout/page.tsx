@@ -4,6 +4,6 @@ type Props = {
     children?: React.ReactNode
 }
 const Page: FC = ({ children }) => {
-    return <>Page {children}</>
+    return <div className="h-screen bg-mineshaft-700">{children}</div>
 }
 export default Page

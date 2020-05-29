@@ -3,7 +3,8 @@ import ReactDOM from 'react-dom'
 import './index.css'
 //import App from './App'
 import './styles/tailwind.css'
-
+import 'react-date-range/dist/styles.css'; // main css file
+import 'react-date-range/dist/theme/default.css'; // theme css file
 import * as serviceWorker from './serviceWorker'
 
 import routes from './config/routes'

@@ -8,10 +8,10 @@ const Intro: FC = () => {
                     <div className="bg-corn-500 rounded h-12"></div>
                 </div>
                 <div className="w-1/3 px-2">
-                    <div className="bg-red-500 rounded h-12"></div>
+                    <div className="bg-corn-500 rounded h-12"></div>
                 </div>
                 <div className="w-1/3 px-2">
-                    <div className="bg-red-400 rounded h-12"></div>
+                    <div className="bg-corn-500 rounded h-12"></div>
                 </div>
             </div>
         </div>
