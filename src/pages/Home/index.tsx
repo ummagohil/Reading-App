@@ -6,6 +6,12 @@ import { IAppState } from '../../store/reducers'
 
 import Page from '../../layout/page'
 
+import AddBttn from '../../components/Add'
+import Calendar from '../../components/Calendar'
+import Info from '../../components/Info'
+import Intro from '../../components/Intro'
+import Search from '../../components/Search'
+
 const mapDispatchToProps = (dispatch: Dispatch<AnyAction>) =>
     bindActionCreators(
         {
@@ -33,7 +39,25 @@ class App extends Component<
                     <div>false</div>
                 )}
                 <div>
-                    <div className="w-full text-center text-red-100">test</div>
+                    <div className="w-full">
+                        <Intro />
+                    </div>
+                    <div className="w-full">
+                        <Search />
+                    </div>
+                    <div className="flex">
+                        <div className="w-1/2">
+                            <Calendar />
+                        </div>
+                        <div className="w-1/2">
+                            <div>
+                                <Info />
+                            </div>
+                            <div>
+                                <AddBttn />
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </Page>
         )
