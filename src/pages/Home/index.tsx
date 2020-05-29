@@ -1,6 +1,4 @@
 import React, { Component } from 'react'
-import { Link } from 'react-router-dom'
-
 import { Dispatch, AnyAction, bindActionCreators } from 'redux'
 import { connect } from 'react-redux'
 import { commonActions } from '../../store/actions/common.actions'
@@ -34,15 +32,9 @@ class App extends Component<
                 ) : (
                     <div>false</div>
                 )}
-                <h2>
-                    <Link to="/">Home</Link>
-                </h2>
-                <h2>
-                    <Link to="/Add">Add</Link>
-                </h2>
-                <h2>
-                    <Link to="/Edit">Edit</Link>
-                </h2>
+                <div>
+                    <div className="w-full text-center text-red-100">test</div>
+                </div>
             </Page>
         )
     }
