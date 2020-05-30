@@ -9,7 +9,7 @@ const Intro: FC = () => {
                         <div className="w-1/10 bg-black text-white bg-opacity-75 rounded-full h-10 w-10 flex items-center justify-center">
                             1
                         </div>
-                        <div className="w-9/10 p-1 text-white">
+                        <div className="w-9/10 p-1 flex items-center justify-center text-white">
                             Use the search bar to find a book
                         </div>
                     </div>
@@ -19,7 +19,7 @@ const Intro: FC = () => {
                         <div className="w-1/10 bg-black text-white bg-opacity-75 rounded-full h-10 w-10 flex items-center justify-center">
                             2
                         </div>
-                        <div className="w-9/10 p-1 text-white">
+                        <div className="w-9/10 p-1 flex items-center justify-center text-white">
                             Click on calendar to schedule book
                         </div>
                     </div>
@@ -29,7 +29,7 @@ const Intro: FC = () => {
                         <div className="w-1/10 bg-black text-white bg-opacity-75 rounded-full h-10 w-10 flex items-center justify-center">
                             3
                         </div>
-                        <div className="w-9/10 p-1 text-white">
+                        <div className="w-9/10 p-1 flex items-center justify-center text-white">
                             View book and schedule information, and then add
                             book
                         </div>
