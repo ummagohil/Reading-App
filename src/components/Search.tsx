@@ -1,21 +1,12 @@
-import React, { FC, useState } from 'react'
+import React, { useState } from 'react'
 
-const Search: FC = () => {
+const Search: React.FC = () => {
     const [searchValue, setSearchValue] = useState('')
 
     const handleSearchInputChanges = (e?: any) => {
         setSearchValue(e.target.value)
     }
 
-    const resetInputField = () => {
-        setSearchValue('')
-    }
-
-    const callSearchFunction = (e?: any, props?: any) => {
-        e.preventDefault()
-        props(searchValue)
-        resetInputField()
-    }
     return (
         <div className="px-2 p-4">
             <input
