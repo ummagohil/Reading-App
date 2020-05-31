@@ -2,9 +2,21 @@ import React, { useState } from 'react'
 
 const Search: React.FC = () => {
     const [searchValue, setSearchValue] = useState('')
+    const [info, setInfo] = useState([])
 
     const handleSearchInputChanges = (e?: any) => {
-        setSearchValue(e.target.value)
+        const { value } = e.target
+        setSearchValue(value)
+        search(value)
+    }
+    const search = (query?: any) => {
+        const url = `https://swapi.co/api/people?search=${query}`
+
+        fetch(url)
+            .then((res) => res.json())
+            .then((res) => {
+                setInfo(res.results)
+            })
     }
 
     return (
@@ -17,6 +29,7 @@ const Search: React.FC = () => {
                 onChange={handleSearchInputChanges}
             ></input>
             {searchValue}
+            {info}
         </div>
     )
 }
