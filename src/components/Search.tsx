@@ -2,14 +2,21 @@ import React, { useState } from 'react'
 
 const Search: React.FC = () => {
     const [searchValue, setSearchValue] = useState('')
-    const [info, setInfo] = useState([])
+    const [searchResult, setSearchResult] = useState([])
 
+    const people = [
+        'Siri',
+        'Alexa',
+        'Google',
+        'Facebook',
+        'Twitter',
+        'Linkedin',
+        'Sinkedin',
+    ]
     const handleSearchInputChanges = (e?: any) => {
-        const { value } = e.target
-        setSearchValue(value)
-        search(value)
+        setSearchValue(e.target.value)
     }
-    const search = (query?: any) => {
+    /*const search = (query?: any) => {
         const url = `https://swapi.co/api/people?search=${query}`
 
         fetch(url)
@@ -17,7 +24,16 @@ const Search: React.FC = () => {
             .then((res) => {
                 setInfo(res.results)
             })
-    }
+    }*/
+
+    React.useEffect(() => {
+        let result = [] as any
+
+        result = people.filter((person) =>
+            person.toLowerCase().includes(searchValue)
+        )
+        setSearchResult(result)
+    }, [searchValue])
 
     return (
         <div className="px-2 p-4">
@@ -29,7 +45,11 @@ const Search: React.FC = () => {
                 onChange={handleSearchInputChanges}
             ></input>
             {searchValue}
-            {info}
+            <ul>
+                {searchResult.map((item) => (
+                    <li>{item}</li>
+                ))}
+            </ul>
         </div>
     )
 }
