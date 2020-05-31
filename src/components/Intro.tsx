@@ -20,7 +20,7 @@ const Intro: FC = () => {
                             2
                         </div>
                         <div className="w-9/10 p-1 flex items-center justify-center text-white">
-                            Click on calendar to schedule book
+                            Click on the calendar to schedule book
                         </div>
                     </div>
                 </div>
