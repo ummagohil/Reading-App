@@ -1,7 +1,10 @@
 import React, { useState } from 'react'
 
+const apiKey = process.env.REACT_APP_API_KEY;
+
 const Search: React.FC = () => {
     const [searchValue, setSearchValue] = useState('')
+    const [searchText, setSearchText] = useState('')
     const [searchResult, setSearchResult] = useState([])
 
     const people = [
@@ -29,7 +32,10 @@ const Search: React.FC = () => {
     React.useEffect(() => {
         //make the API call here
         let result = [] as any
-
+        
+        const requestURL = `https://cors-anywhere.herokuapp.com/` +
+        `https://www.goodreads.com/search/index.xml?key=${apiKey}&q=${searchText}`
+        
         result = people.filter((person) =>
             person.toLowerCase().includes(searchValue)
         )
