@@ -27,6 +27,7 @@ const Search: React.FC = () => {
     }*/
 
     React.useEffect(() => {
+        //make the API call here
         let result = [] as any
 
         result = people.filter((person) =>
