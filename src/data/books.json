@@ -1,56 +1,111 @@
 {
-    "jkRowling": {
-        "author": "",
+    "JKRowling": {
         "books": {
-            "title": {
-                "intro": "",
-                "noPages": 123,
-                "genre": "",
-                "review": 1
+            "HarryPotterAndTheSorcerersStone": {
+                "intro": "Harry Potter's life is miserable. His parents are dead and he's stuck with his heartless relatives, who force him to live in a tiny closet under the stairs. But his fortune changes when he receives a letter that tells him the truth about himself: he's a wizard.",
+                "noPages": 309,
+                "genre": "Fiction",
+                "review": 4.47
+            },
+            "HarryPotterAndTheChamberOfSecrets": {
+                "intro": "Ever since Harry Potter had come home for the summer, the Dursleys had been so mean and hideous that all Harry wanted was to get back to the Hogwarts School for Witchcraft and Wizardry. But just as he’s packing his bags, Harry receives a warning from a strange impish creature who says that if Harry returns to Hogwarts, disaster will strike.",
+                "noPages": 341,
+                "genre": "Fiction",
+                "review": 4.42
+            },
+            "HarryPotterAndThePrisonerOfAzkaban": {
+                "intro": "Harry Potter's third year at Hogwarts is full of new dangers. A convicted murderer, Sirius Black, has broken out of Azkaban prison, and it seems he's after Harry. Now Hogwarts is being patrolled by the dementors, the Azkaban guards who are hunting Sirius. ",
+                "noPages": 435,
+                "genre": "Fiction",
+                "review": 4.57
+            },
+            "HarryPotterAndTheGobletOfFire": {
+                "intro": "Harry Potter is midway through his training as a wizard and his coming of age. Harry wants to get away from the pernicious Dursleys and go to the International Quidditch Cup with Hermione, Ron, and the Weasleys. He wants to dream about Cho Chang, his crush (and maybe do more than dream). ",
+                "noPages": 734,
+                "genre": "Fiction",
+                "review": 4.56
+            },
+            "HarryPotterAndTheOrderOfThePhoenix": {
+                "intro": "There is a door at the end of a silent corridor. And it’s haunting Harry Pottter’s dreams. Why else would he be waking in the middle of the night, screaming in terror?",
+                "noPages": 870,
+                "genre": "Fiction",
+                "review": 4.5
+            },
+            "HarryPotterAndTheHalfBloodPrince": {
+                "intro": "The war against Voldemort is not going well; even Muggle governments are noticing. Ron scans the obituary pages of the Daily Prophet, looking for familiar names. Dumbledore is absent from Hogwarts for long stretches of time, and the Order of the Phoenix has already suffered losses.",
+                "noPages": 652,
+                "genre": "Fiction",
+                "review": 4.57
+            },
+            "HarryPotterAndTheDeathlyHallows": {
+                "intro": "Harry Potter is leaving Privet Drive for the last time. But as he climbs into the sidecar of Hagrid’s motorbike and they take to the skies, he knows Lord Voldemort and the Death Eaters will not be far behind.",
+                "noPages": 759,
+                "genre": "Fiction",
+                "review": 4.62
             }
         }
     },
-    "author2": {
-        "author": "",
+    "Malcolm Gladwell": {
         "books": {
-            "title": {
-                "intro": "",
-                "noPages": 123,
-                "genre": "",
-                "review": 1
+            "Outliners:TheStoryOfSuccess": {
+                "intro": "In this stunning new book, Malcolm Gladwell takes us on an intellectual journey through the world of outliers--the best and the brightest, the most famous and the most successful. He asks the question: what makes high-achievers different?",
+                "noPages": 309,
+                "genre": "Non-fiction",
+                "review": 4.16
+            },
+            "TalkingToStrangers:WhatWeShouldKnowAboutThePeopleWeDon’tKnow": {
+                "intro": "In the audiobook version of Talking to Strangers, you'll hear the voices of people he interviewed--scientists, criminologists, military psychologists. Court transcripts are brought to life with re-enactments. You actually hear the contentious arrest of Sandra Bland by the side of the road in Texas. ",
+                "noPages": 388,
+                "genre": "Non-fiction",
+                "review": 4.04
+            },
+            "Blink:ThePowerOfThinkingWithoutThinking": {
+                "intro": "Drawing on cutting-edge neuroscience and psychology and displaying all of the brilliance that made The Tipping Point a classic, Blink changes the way you'll understand every decision you make. Never again will you think about thinking the same way.",
+                "noPages": 296,
+                "genre": "Non-fiction",
+                "review": 3.93
             }
         }
     },
-    "author3": {
-        "author": "",
+    "AdamKay": {
         "books": {
-            "title": {
-                "intro": "",
-                "noPages": 123,
-                "genre": "",
-                "review": 1
+            "ThisIsGoingToHurt:SecretDiariesOfAJuniorDoctor": {
+                "intro": "Adam Kay was a junior doctor from 2004 until 2010, before a devastating experience on a ward caused him to reconsider his future. He kept a diary throughout his training, and This Is Going to Hurt intersperses tales from the front line of the NHS with reflections on the current crisis.",
+                "noPages": 256,
+                "genre": "Non-fiction",
+                "review": 4.43
+            },
+            "TwasTheNightshiftBeforeChristmas": {
+                "intro": "Twas The Nightshift Before Christmas is the hilarious, poignant and entertaining story of the life of a junior doctor at the most challenging time of the year. With twenty-five tales of intriguing, shocking and incredible Christmas incidents, the British public will finally appreciate the sacrifices made and the challenges faced by the unsung heroes of the NHS.",
+                "noPages": 144,
+                "genre": "Non-fiction",
+                "review": 4.18
             }
         }
     },
-    "author4": {
-        "author": "",
+    "MatthewSyed": {
         "books": {
-            "title": {
-                "intro": "",
-                "noPages": 123,
-                "genre": "",
-                "review": 1
+            "BlackBoxThinking": {
+                "intro": "An eye-opening, Gladwellian look at the power of a positive attitude toward failure and its profound impact on our success in any field.",
+                "noPages": 320,
+                "genre": "Non-fiction",
+                "review": 4.32
+            },
+            "Bounce": {
+                "intro": "In the vein of the international bestselling Freakonomics, award-winning journalist Matthew Syed reveals the hidden clues to success—in sports, business, school, and just about anything else that you’d want to be great at.",
+                "noPages": 320,
+                "genre": "Non-fiction",
+                "review": 4.06
             }
         }
     },
-    "author5": {
-        "author": "",
+    "BillBrowder": {
         "books": {
-            "title": {
-                "intro": "",
-                "noPages": 123,
-                "genre": "",
-                "review": 1
+            "RedNotice:ATrueStoryOfHighFinance,Murder,AndOneMan'sFightForJustic": {
+                "intro": "A real-life political thriller about an American financier in the Wild East of Russia, the murder of his principled young tax attorney, and his dangerous mission to expose the Kremlin's corruption.",
+                "noPages": 380,
+                "genre": "Non-ficton",
+                "review": 4.41
             }
         }
     }
