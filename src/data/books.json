@@ -98,5 +98,41 @@
             "genre": "Non-ficton",
             "review": 4.41
         }
+    },
+    "ZadieSmith": {
+        "SwingTime": {
+            "intro": "Two brown girls dream of being dancers—but only one, Tracey, has talent. The other has ideas: about rhythm and time, about black bodies and black music, about what constitutes a tribe, or makes a person truly free. It's a close but complicated childhood friendship that ends abruptly in their early twenties, never to be revisited, but never quite forgotten, either.",
+            "noPages": 453,
+            "genre": "Ficton",
+            "review": 3.56
+        },
+        "WhiteTeeth": {
+            "intro": "At the center of this invigorating novel are two unlikely friends, Archie Jones and Samad Iqbal. Hapless veterans of World War II, Archie and Samad and their families become agents of England’s irrevocable transformation.",
+            "noPages": 448,
+            "genre": "Ficton",
+            "review": 3.77
+        },
+        "ChangingMyMind:OccasionalEssays": {
+            "intro": "Zadie Smith brings to her essays all of the curiosity, intellectual rigor, and sharp humor that have attracted so many readers to her fiction, and the result is a collection that is nothing short of extraordinary.",
+            "noPages": 320,
+            "genre": "Ficton",
+            "review": 3.83
+        }
+    },
+    "SallyRooney": {
+        "NormalPeope": {
+            "intro": "At school Connell and Marianne pretend not to know each other. He’s popular and well-adjusted, star of the school soccer team while she is lonely, proud, and intensely private. But when Connell comes to pick his mother up from her housekeeping job at Marianne’s house, a strange and indelible connection grows between the two teenagers - one they are determined to conceal.",
+            "noPages": 273,
+            "genre": "Fiction",
+            "review": 3.88
+        }
+    },
+    "GailHoneyman": {
+        "NormalPeope": {
+            "intro": "Meet Eleanor Oliphant: she struggles with appropriate social skills and tends to say exactly what she’s thinking. Nothing is missing in her carefully timetabled life of avoiding unnecessary human contact, where weekends are punctuated by frozen pizza, vodka, and phone chats with Mummy.",
+            "noPages": 336,
+            "genre": "Fiction",
+            "review": 4.29
+        }
     }
 }
