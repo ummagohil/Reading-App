@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <clipPath id="clip-Web_1920_4">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1920_4" data-name="Web 1920 – 4" clip-path="url(#clip-Web_1920_4)">
+    <rect width="1920" height="1080" fill="#effff1"/>
+    <path id="Path_1" data-name="Path 1" d="M0,0H1920V131H0Z" transform="translate(0 34)" fill="#ded6ff"/>
+    <text id="Edit_Book" data-name="Edit Book" transform="translate(0 48)" fill="#14e2aa" font-size="82" font-family="SourceCodePro-Regular, Source Code Pro" text-decoration="underline"><tspan x="738.6" y="81">Edit Book</tspan></text>
+    <rect id="Rectangle_3" data-name="Rectangle 3" width="1747" height="118" rx="11" transform="translate(78 930)" fill="#12cb99"/>
+    <text id="Save" transform="translate(785 1009)" fill="#effff1" font-size="55" font-family="SourceCodePro-Regular, Source Code Pro"><tspan x="0" y="0">Save</tspan></text>
+    <g id="Rectangle_4" data-name="Rectangle 4" transform="translate(1131 190)" fill="none" stroke="#14e2aa" stroke-width="2">
+      <rect width="694" height="701" rx="11" stroke="none"/>
+      <rect x="1" y="1" width="692" height="699" rx="10" fill="none"/>
+    </g>
+    <g id="Rectangle_2" data-name="Rectangle 2" transform="translate(78 189)" fill="none" stroke="#14e2aa" stroke-width="2">
+      <rect width="975" height="701" rx="11" stroke="none"/>
+      <rect x="1" y="1" width="973" height="699" rx="10" fill="none"/>
+    </g>
+    <line id="Line_1" data-name="Line 1" y2="701" transform="translate(565.386 189.5)" fill="none" stroke="#12cb99" stroke-width="1"/>
+    <line id="Line_2" data-name="Line 2" x2="975.501" transform="translate(77.999 289.5)" fill="none" stroke="#12cb99" stroke-width="1"/>
+    <line id="Line_3" data-name="Line 3" x2="975.501" transform="translate(77.999 389.5)" fill="none" stroke="#12cb99" stroke-width="1"/>
+    <line id="Line_4" data-name="Line 4" x2="975.501" transform="translate(77.999 489.5)" fill="none" stroke="#12cb99" stroke-width="1"/>
+    <line id="Line_5" data-name="Line 5" x2="975.501" transform="translate(77.999 589.5)" fill="none" stroke="#12cb99" stroke-width="1"/>
+    <line id="Line_6" data-name="Line 6" x2="975.501" transform="translate(77.999 689.5)" fill="none" stroke="#12cb99" stroke-width="1"/>
+    <line id="Line_7" data-name="Line 7" x2="975.501" transform="translate(77.999 789.5)" fill="none" stroke="#12cb99" stroke-width="1"/>
+    <text id="Title" transform="translate(97 258)" fill="#14e2aa" font-size="40" font-family="SourceCodePro-Regular, Source Code Pro"><tspan x="0" y="0">Title</tspan></text>
+    <text id="Author" transform="translate(97 353)" fill="#14e2aa" font-size="40" font-family="SourceCodePro-Regular, Source Code Pro"><tspan x="0" y="0">Author</tspan></text>
+    <text id="Number_of_Pages" data-name="Number of Pages" transform="translate(97 458)" fill="#14e2aa" font-size="40" font-family="SourceCodePro-Regular, Source Code Pro"><tspan x="0" y="0">Number of Pages</tspan></text>
+    <text id="Genre" transform="translate(95 553)" fill="#14e2aa" font-size="40" font-family="SourceCodePro-Regular, Source Code Pro"><tspan x="0" y="0">Genre</tspan></text>
+    <text id="Average_Rating" data-name="Average Rating" transform="translate(97 658)" fill="#14e2aa" font-size="40" font-family="SourceCodePro-Regular, Source Code Pro"><tspan x="0" y="0">Average Rating</tspan></text>
+    <text id="Year_of_Publication" data-name="Year of Publication" transform="translate(95 753)" fill="#14e2aa" font-size="40" font-family="SourceCodePro-Regular, Source Code Pro"><tspan x="0" y="0">Year of Publication</tspan></text>
+    <text id="ISBN" transform="translate(95 858)" fill="#14e2aa" font-size="40" font-family="SourceCodePro-Regular, Source Code Pro"><tspan x="0" y="0">ISBN</tspan></text>
+  </g>
+</svg>
